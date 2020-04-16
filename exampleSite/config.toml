@@ -34,7 +34,7 @@ home = "Home"
 logo = "images/ourlockdownlogo (1).webp"
 social = []
 [params.banner]
-bgImage = ""
+bgImage = "images/banner-bg.svg"
 image = "images/locklownbanner.webp"
 title = "Hi, Welcome to our Lockdown :/"
 [params.cta]
