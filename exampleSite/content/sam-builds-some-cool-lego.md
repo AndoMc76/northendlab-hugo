@@ -4,7 +4,7 @@ categories = ["Sam"]
 date = 2020-04-16T15:46:00Z
 description = ""
 draft = true
-image = ""
+image = "/images/lego-header.webp"
 title = "Sam Builds Some Cool Lego"
 type = "post"
 
