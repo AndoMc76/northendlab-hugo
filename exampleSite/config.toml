@@ -4,7 +4,7 @@ languageCode = "en-gb"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
-title = "Northendlab | Blog Template"
+title = "Welcome to Our Lockdown"
 [[menu.footer]]
 URL = "contact"
 name = "Contact"
