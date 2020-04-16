@@ -32,10 +32,11 @@ google_analitycs_id = ""
 google_tag_manager = ""
 home = "Home"
 logo = "images/logo.svg"
+social = []
 [params.banner]
 bgImage = "images/banner/banner-bg.svg"
 image = "images/banner/illustration.svg"
-title = "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+title = "Hi, Welcome to our Lockdown :/"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = true
@@ -64,15 +65,3 @@ enable = true
 preloader = ""
 [params.search]
 enable = true
-[[params.social]]
-icon = "ti-facebook"
-link = "#"
-[[params.social]]
-icon = "ti-twitter-alt"
-link = "#"
-[[params.social]]
-icon = "ti-github"
-link = "#"
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
