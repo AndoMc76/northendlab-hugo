@@ -31,7 +31,7 @@ description = "This is meta description"
 google_analitycs_id = ""
 google_tag_manager = ""
 home = "Home"
-logo = "images/locklownbanner.webp"
+logo = "images/ourlockdownlogo (1).webp"
 social = []
 [params.banner]
 bgImage = ""
