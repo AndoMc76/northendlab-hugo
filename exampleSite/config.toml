@@ -1,4 +1,4 @@
-baseURL = "http://www.ourlockdown.co.uk/"
+baseURL = "https://www.ourlockdown.co.uk/"
 disqusShortname = ""
 languageCode = "en-gb"
 paginate = "5"
