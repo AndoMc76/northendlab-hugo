@@ -1,7 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
 {{- partial "head.html" . -}}
-
+<head>
+    {{ if .Data.Singular }}
+    <meta name="robots" content="noindex, nofollow">
+{{ end }}
+</head>    
+    
 <body>
     <!-- Google Tag Manager (noscript) -->
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ .Site.Params.googleTagManager }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
