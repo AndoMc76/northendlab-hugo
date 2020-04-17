@@ -1,4 +1,10 @@
 ---
 label: About
 hide_body: true
-fields: []
+fields:
+- name: text_box
+  type: text
+  config:
+    required: false
+  label: Text box
+  description: Include text here
