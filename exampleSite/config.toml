@@ -9,18 +9,10 @@ title = "Welcome to Our Lockdown"
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.footer]]
-URL = "tools"
-name = "tools"
-weight = 2
 [[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 1
-[[menu.main]]
-URL = "tools"
-name = "tools"
-weight = 2
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
@@ -28,12 +20,12 @@ author = "Themefisher"
 contact_form_action = "#"
 copyright = ""
 description = "Our Lockdown"
+enableRobotsTXT = "true"
 google_analitycs_id = "UA-163798072-1"
 google_tag_manager = "GTM-PN49BWX"
 home = "Home"
 logo = "images/lockdownlogo.jpg"
 social = []
-enableRobotsTXT = "true"
 [params.banner]
 bgImage = "images/banner-bg.svg"
 image = "images/lockdownbanner.png"
