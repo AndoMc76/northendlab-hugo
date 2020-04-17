@@ -8,3 +8,5 @@ fields:
     required: false
   label: Text box
   description: Include text here
+pages:
+- about.md
