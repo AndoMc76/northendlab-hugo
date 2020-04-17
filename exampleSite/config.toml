@@ -29,7 +29,7 @@ social = []
 [params.banner]
 bgImage = "images/banner-bg.svg"
 image = "images/lockdownbanner.png"
-title = "Hi, Welcome to our Lockdown :/"
+title = "Hi from Sam, Freya, Mum and Dad. Welcome to our Lockdown :/"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
 enable = false
