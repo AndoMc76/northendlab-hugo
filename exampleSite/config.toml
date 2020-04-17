@@ -35,7 +35,7 @@ logo = "images/ourlockdownlogo (1).webp"
 social = []
 [params.banner]
 bgImage = "images/banner-bg.svg"
-image = "images/lockdown-banner-003.webp"
+image = "images/lockdownbanner.png"
 title = "Hi, Welcome to our Lockdown :/"
 [params.cta]
 description = "Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus."
