@@ -16,4 +16,4 @@ Today Sam made some really cool Lego without the instructions!
 >
 > He also went out on his bike.......
 
-{{< youtube LHUcP8LfkM >}}
+{{< youtube id="PLHUcP8LfkM" >}}
