@@ -33,6 +33,7 @@ google_tag_manager = "GTM-PN49BWX"
 home = "Home"
 logo = "images/lockdownlogo.jpg"
 social = []
+enableRobotsTXT = "true"
 [params.banner]
 bgImage = "images/banner-bg.svg"
 image = "images/lockdownbanner.png"
