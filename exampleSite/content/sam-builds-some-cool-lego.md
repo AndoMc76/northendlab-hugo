@@ -13,3 +13,5 @@ Today Sam made some really cool Lego without the instructions!
 > **_I love lego - Sam_**
 
 ![](/images/sam-lego.jpg)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/PLHUcP8LfkM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
