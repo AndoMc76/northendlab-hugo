@@ -31,7 +31,7 @@ description = "Our Lockdown"
 google_analitycs_id = "UA-163798072-1"
 google_tag_manager = "GTM-PN49BWX"
 home = "Home"
-logo = "images/ourlockdownlogo (1).webp"
+logo = "images/lockdownlogo.jpg"
 social = []
 [params.banner]
 bgImage = "images/banner-bg.svg"
