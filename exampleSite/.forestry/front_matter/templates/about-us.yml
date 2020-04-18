@@ -1,0 +1,7 @@
+---
+label: About us
+hide_body: true
+fields:
+- type: text
+  name: text_box
+  label: text_box
