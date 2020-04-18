@@ -10,3 +10,4 @@ fields:
   description: Include text here
 pages:
 - about.md
+- exampleSite/content/about-us.md
