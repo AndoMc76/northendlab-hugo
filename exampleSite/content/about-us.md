@@ -1,7 +1,12 @@
 +++
-date = 2020-04-17T23:00:00Z
+date = ""
+draft = true
 text_box = "Hi this an about page"
 title = "About"
 
 +++
-**Lorem Ipsum** is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+This is a little blog for our friends and family to let them know what we've been up to during our lockdown.
+
+We have Sam, who is 5 and is in P1 at school and Freya, who's 2 and at nursery. Mummy works as a paramedic so she's very busy at the moment.
+
+Our dad has set this blog up using some pretty geeky new kind of technology which makes websites load faster - he says this could be a good thing to learn for when he goes back to working properly.
