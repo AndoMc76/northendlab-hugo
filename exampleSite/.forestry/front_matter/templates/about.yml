@@ -5,3 +5,21 @@ fields:
 - type: text
   name: text_box
   label: text_box
+- name: text_area
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: Text area
+  description: Add text area
+- name: blocks
+  type: blocks
+  label: Blocks
+  template_types: []
+  config:
+    min: 
+    max: 
+  description: Add blocks
