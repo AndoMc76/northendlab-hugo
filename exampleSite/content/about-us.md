@@ -5,6 +5,6 @@ name = "About"
 weight = 1
 [menu.main]
 name = "About"
-weight = 2
+weight = 1
 
 +++
