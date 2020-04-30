@@ -3,6 +3,7 @@ date = 2020-04-17T23:00:00Z
 description = "Why does this blog exist? Find out here."
 text_box = "Hi this an about page"
 title = "About Our Lockdown"
+type = "page"
 
 +++
 ### What's this all about then?
