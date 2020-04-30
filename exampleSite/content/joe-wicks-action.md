@@ -9,3 +9,4 @@ title = "Joe Wicks Action"
 type = "post"
 
 +++
+[sam-wicks-action](/images/sam-wicks-action "sam-wicks-action")
