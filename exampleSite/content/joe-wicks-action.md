@@ -3,6 +3,7 @@ author = ""
 categories = []
 date = 2020-04-29T23:00:00Z
 description = ""
+draft = true
 image = ""
 title = "Some Intense Joe Wicks Action"
 type = "post"
@@ -11,8 +12,6 @@ type = "post"
 Each day we try and get some exercise with cockney YouTube guy Joe Wicks.
 
 Daddy and Freya in action here.....
-
-![](/images/VID_20200429_123452_2-ANIMATION.gif)
 
 And Sam with some high-powered moves as well.
 
