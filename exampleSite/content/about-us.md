@@ -15,16 +15,16 @@ Our dad has set this blog up using some pretty geeky new kind of technology whic
 
 _Sam_
 
-![](/images/IMG_20200402_173744.jpg)
+![](/images/IMG_20200402_173744 (1).jpg)
 
 _Freya_
 
-![](/images/IMG_20200418_161416.jpg)
+![](/images/IMG_20200418_161416 (1).jpg)
 
-_Mummy_
+_Mum_
 
-![](/images/IMG_20200413_162314.jpg)
+![](/images/IMG_20200413_162314 (1).jpg)
 
-_Daddy_
+_Dad_
 
-![](/images/IMG_20200402_173609.jpg)
+![](/images/lolimage.jpg)
