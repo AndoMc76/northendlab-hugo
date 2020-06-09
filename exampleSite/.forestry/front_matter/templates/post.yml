@@ -25,6 +25,7 @@ fields:
   label: type
   default: post
 pages:
+- exampleSite/content/blathers-is-here.md
 - exampleSite/content/joe-wicks-action.md
 - exampleSite/content/sam-builds-some-cool-lego.md
 - exampleSite/content/sam-builds-some-cool-lego.md
