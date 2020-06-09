@@ -3,7 +3,7 @@ author = ""
 categories = []
 date = 2020-06-08T23:00:00Z
 description = ""
-image = ""
+image = "/images/blathers-2.jpg"
 title = "Blathers is here"
 type = "post"
 
