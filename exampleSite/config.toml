@@ -4,7 +4,7 @@ languageCode = "en-gb"
 paginate = "5"
 summaryLength = "10"
 theme = "northendlab-hugo"
-title = "Welcome to Our Lockdown"
+title = "Welcome to Happy Hoppers School!"
 [outputs]
 home = ["HTML", "AMP", "RSS", "JSON"]
 [params]
